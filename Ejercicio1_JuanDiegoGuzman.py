@@ -10,7 +10,7 @@
 
 
 # In[25]:
-
+#añadir comentario para que cambie
 #Primero debo definir una variable tipo caracter en el area de trabajo
 #la llamaré texto1 porque es un texto y es el primero
 
